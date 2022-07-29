@@ -1,0 +1,7 @@
+Update V1.00:
+    Back End
+    -----------
+    - Changed old variable names to newer and related names (e.g from passwordLength to amountOfGB)
+    - Changed some interger data types to float to allow decimal points to work
+    - Changed inputs from passwordGenerator fork to better suit the purpose of the program
+    - Fixed an error when entering a decimal number which didn't accept that input
